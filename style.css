@@ -2,7 +2,8 @@
   margin: 0;
   padding: 0;
 }
-h1{
-  background-color: blue;
+.newChange{
+  background-color: brown;
   color: rebeccapurple;
+  text-decoration: underline;
 }
